@@ -13,4 +13,4 @@
 ## Agenda
 ### [**1) Introduction to Prometheus**](https://github.com/jangjaelee/tutorials-prometheus/wiki/1\)-Introduction-to-Prometheus)
 ### [**2) Installing Prometheus on Kubernetes**](https://github.com/jangjaelee/tutorials-prometheus/wiki/2\)-Installing-Prometheus-on-Kubernetes)
-### [**3) Prometheus Operator for Beginner**](https://github.com/jangjaelee/tutorials-prometheus/wiki/3\)-Prometheus-Operator)
+### [**3) Prometheus Operator for Beginner**](https://github.com/jangjaelee/tutorials-prometheus/wiki/3\)-Prometheus-Operator-for-Beginner)
